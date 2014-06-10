@@ -3,7 +3,7 @@ cheatsheet-google
 
 ## Install
 
-1. Download the zip file and uncompress it.
+1. Download the [zip file](https://github.com/alienlebarge/cheatsheet-google/archive/master.zip) and uncompress it.
 1. Open `Google.docset` in [Dash](http://kapeli.com/dash).
 
 ## Use it
