@@ -49,7 +49,7 @@ cheatsheet do
     entry do
       command 'related:appstorm.net'
       name 'Site that are related to'
-      notes 'Use `related.` to find sites that are related to specified site'
+      notes 'Use `related:` to find sites that are related to specified site'
     end
 
   end
