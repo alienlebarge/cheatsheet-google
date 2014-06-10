@@ -54,5 +54,5 @@ cheatsheet do
 
   end
 
-  notes 'Feel free to contribute'
+  notes 'Reference: http://www.google.com/insidesearch/tipstricks/. Contributing: Feel free to [contribute on Github](https://github.com/alienlebarge/cheatsheet-google). '
 end
